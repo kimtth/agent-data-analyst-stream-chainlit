@@ -1,0 +1,56 @@
+{
+    "columns": [
+        {
+            "Column_name": "Business_Unit",
+            "Description": {
+                "en": "Identifies the company business unit responsible for the record (values localized as BBU, HBU, CBU, ZBU); used for organizational aggregation and filtering."
+            }
+        },
+        {
+            "Column_name": "Product",
+            "Description": {
+                "en": "Specifies the product name associated with the record; used to group and analyze performance by product."
+            }
+        },
+        {
+            "Column_name": "Region",
+            "Description": {
+                "en": "Geographical region (values localized to Japanese: 北米, 欧州, アジア); used for regional segmentation, reporting, and comparisons."
+            }
+        },
+        {
+            "Column_name": "Country",
+            "Description": {
+                "en": "Localized country name derived from the former Site column (e.g., 米国=USA, カナダ=Canada, メキシコ=Mexico, ドイツ=Germany, フランス=France, 英国=UK, 日本=Japan, 中国=China, 韓国=Korea); used for country-level analysis and joins."
+            }
+        },
+        {
+            "Column_name": "Fiscal_Year",
+            "Description": {
+                "en": "Numeric fiscal year extracted from the original composite Fiscal_Quarter field (e.g., 2023); used for period hierarchies and time-series grouping."
+            }
+        },
+        {
+            "Column_name": "Fiscal_Quarter",
+            "Description": {
+                "en": "Fiscal quarter code (Q1–Q4) separated from year; used for intra-year trend and comparative analysis."
+            }
+        },
+        {
+            "Column_name": "Revenue",
+            "Description": {
+                "en": "Total revenue amount for the record (currency consistent across dataset); used for financial reporting and KPI calculations."
+            }
+        },
+        {
+            "Column_name": "AOP",
+            "Description": {
+                "en": "Annual Operating Plan target value; used for planning comparisons and variance analysis against actual Revenue."
+            }
+        }
+    ],
+    "joinable_columns": [
+        "Business_Unit",
+        "Product"
+    ]
+}

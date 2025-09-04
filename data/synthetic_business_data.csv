@@ -1,0 +1,328 @@
+Business_Unit,Product,Region,Country,Fiscal_Year,Fiscal_Quarter,Revenue,AOP
+BBU,ProductA,North America,United States,2025,Q1,984859.77,1008642.74
+BBU,ProductA,North America,United States,2025,Q2,104444.8,110164.24
+BBU,ProductA,North America,United States,2025,Q3,288290.48,273243.96
+BBU,ProductA,North America,United States,2025,Q4,540719.52,520087.71
+BBU,ProductA,North America,Canada,2025,Q1,564620.46,548350.54
+BBU,ProductA,North America,Canada,2025,Q2,827696.14,865838.0
+BBU,ProductA,North America,Canada,2025,Q3,329197.33,331444.0
+BBU,ProductA,North America,Canada,2025,Q4,570313.53,593866.45
+BBU,ProductA,North America,Mexico,2025,Q1,654181.8,681788.0
+BBU,ProductA,North America,Mexico,2025,Q2,786912.3,718742.23
+BBU,ProductA,North America,Mexico,2025,Q3,886977.56,932743.67
+BBU,ProductA,North America,Mexico,2025,Q4,126414.91,118304.43
+BBU,ProductA,Europe,Germany,2025,Q1,725870.93,676455.36
+BBU,ProductA,Europe,Germany,2025,Q2,917843.96,946176.57
+BBU,ProductA,Europe,Germany,2025,Q3,353590.87,340484.8
+BBU,ProductA,Europe,Germany,2025,Q4,823770.59,838428.0
+BBU,ProductA,Europe,France,2025,Q1,337456.82,355962.85
+BBU,ProductA,Europe,France,2025,Q2,497071.05,506369.03
+BBU,ProductA,Europe,France,2025,Q3,262207.87,239149.04
+BBU,ProductA,Europe,France,2025,Q4,399943.72,407244.1
+BBU,ProductA,Europe,United Kingdom,2025,Q1,321042.85,292528.91
+BBU,ProductA,Europe,United Kingdom,2025,Q2,553844.69,593726.9
+BBU,ProductA,Europe,United Kingdom,2025,Q3,315949.6,342332.39
+BBU,ProductA,Europe,United Kingdom,2025,Q4,353246.89,336663.64
+BBU,ProductA,Asia,Japan,2025,Q1,904362.17,839141.4
+BBU,ProductA,Asia,Japan,2025,Q2,971176.27,1028686.2
+BBU,ProductA,Asia,Japan,2025,Q3,720134.35,760876.83
+BBU,ProductA,Asia,Japan,2025,Q4,757844.33,769531.73
+BBU,ProductA,Asia,China,2025,Q1,865938.36,831500.98
+BBU,ProductA,Asia,China,2025,Q2,160139.88,166702.69
+BBU,ProductA,Asia,China,2025,Q3,472490.07,514031.41
+BBU,ProductA,Asia,China,2025,Q4,547997.6,524030.63
+BBU,ProductA,Asia,South Korea,2025,Q1,214558.56,233680.69
+BBU,ProductA,Asia,South Korea,2025,Q2,185491.85,169565.39
+BBU,ProductA,Asia,South Korea,2025,Q3,368628.03,387305.66
+BBU,ProductA,Asia,South Korea,2025,Q4,369717.2,384836.01
+BBU,ProductB,North America,United States,2025,Q1,621048.76,617033.24
+BBU,ProductB,North America,United States,2025,Q2,366612.92,340622.2
+BBU,ProductB,North America,United States,2025,Q3,630681.24,658913.74
+BBU,ProductB,North America,United States,2025,Q4,191212.64,188531.39
+BBU,ProductB,North America,Canada,2025,Q1,398208.39,359792.63
+BBU,ProductB,North America,Canada,2025,Q2,157641.32,153523.64
+BBU,ProductB,North America,Canada,2025,Q3,910279.09,968323.63
+BBU,ProductB,North America,Canada,2025,Q4,402010.88,416622.26
+BBU,ProductB,North America,Mexico,2025,Q1,930028.88,865698.15
+BBU,ProductB,North America,Mexico,2025,Q2,814703.15,885574.2
+BBU,ProductB,North America,Mexico,2025,Q3,279765.04,253742.97
+BBU,ProductB,North America,Mexico,2025,Q4,931719.44,942938.0
+BBU,ProductB,Europe,Germany,2025,Q1,584289.85,608729.94
+BBU,ProductB,Europe,Germany,2025,Q2,960008.95,884368.4
+BBU,ProductB,Europe,Germany,2025,Q3,849211.37,785928.39
+BBU,ProductB,Europe,Germany,2025,Q4,150496.89,159015.62
+BBU,ProductB,Europe,France,2025,Q1,455063.01,484210.95
+BBU,ProductB,Europe,France,2025,Q2,959402.47,909094.73
+BBU,ProductB,Europe,France,2025,Q3,921599.49,1008040.68
+BBU,ProductB,Europe,France,2025,Q4,436381.24,458555.24
+BBU,ProductB,Europe,United Kingdom,2025,Q1,664591.62,719479.59
+BBU,ProductB,Europe,United Kingdom,2025,Q2,189437.26,194396.17
+BBU,ProductB,Europe,United Kingdom,2025,Q3,537137.27,519515.36
+BBU,ProductB,Europe,United Kingdom,2025,Q4,975429.64,905981.05
+BBU,ProductB,Asia,Japan,2025,Q1,178485.07,165838.42
+BBU,ProductB,Asia,Japan,2025,Q2,607443.45,548359.09
+BBU,ProductB,Asia,Japan,2025,Q3,978456.38,1065967.1
+BBU,ProductB,Asia,Japan,2025,Q4,386138.74,349099.56
+BBU,ProductB,Asia,China,2025,Q1,593950.32,537938.09
+BBU,ProductB,Asia,China,2025,Q2,708342.08,683125.13
+BBU,ProductB,Asia,China,2025,Q3,604189.43,662875.74
+BBU,ProductB,Asia,China,2025,Q4,253243.69,242932.01
+BBU,ProductB,Asia,South Korea,2025,Q1,472055.9,442903.26
+BBU,ProductB,Asia,South Korea,2025,Q2,867259.3,874617.82
+BBU,ProductB,Asia,South Korea,2025,Q3,332833.97,356472.0
+BBU,ProductB,Asia,South Korea,2025,Q4,317943.71,293194.0
+BBU,ProductC,North America,United States,2025,Q1,202291.0,192505.89
+BBU,ProductC,North America,United States,2025,Q2,693721.87,657970.23
+BBU,ProductC,North America,United States,2025,Q3,438317.45,447487.64
+BBU,ProductC,North America,United States,2025,Q4,397008.83,381767.16
+BBU,ProductC,North America,Canada,2025,Q1,404875.05,403029.75
+BBU,ProductC,North America,Canada,2025,Q2,911068.15,881440.18
+BBU,ProductC,North America,Canada,2025,Q3,120904.88,120264.62
+BBU,ProductC,North America,Canada,2025,Q4,154474.29,167093.31
+BBU,ProductC,North America,Mexico,2025,Q1,497818.51,449575.65
+BBU,ProductC,North America,Mexico,2025,Q2,924280.86,878780.62
+BBU,ProductC,North America,Mexico,2025,Q3,863829.39,916874.85
+BBU,ProductC,North America,Mexico,2025,Q4,680441.73,651796.05
+BBU,ProductC,Europe,Germany,2025,Q1,739956.73,692050.04
+BBU,ProductC,Europe,Germany,2025,Q2,735773.53,758484.45
+BBU,ProductC,Europe,Germany,2025,Q3,676275.56,620161.34
+BBU,ProductC,Europe,Germany,2025,Q4,676052.01,641308.88
+BBU,ProductC,Europe,France,2025,Q1,970008.55,975749.71
+BBU,ProductC,Europe,France,2025,Q2,448679.88,438959.1
+BBU,ProductC,Europe,France,2025,Q3,266280.19,261957.09
+BBU,ProductC,Europe,France,2025,Q4,503542.99,535906.8
+BBU,ProductC,Europe,United Kingdom,2025,Q1,661856.58,636890.17
+BBU,ProductC,Europe,United Kingdom,2025,Q2,340826.94,333059.29
+BBU,ProductC,Europe,United Kingdom,2025,Q3,701539.32,639909.32
+BBU,ProductC,Europe,United Kingdom,2025,Q4,733403.6,784311.13
+BBU,ProductC,Asia,Japan,2025,Q1,681835.02,617770.12
+BBU,ProductC,Asia,Japan,2025,Q2,533918.05,529294.58
+BBU,ProductC,Asia,Japan,2025,Q3,860881.56,789620.01
+BBU,ProductC,Asia,Japan,2025,Q4,495627.61,534593.05
+BBU,ProductC,Asia,China,2025,Q1,265048.45,284320.76
+BBU,ProductC,Asia,China,2025,Q2,343429.81,327300.83
+BBU,ProductC,Asia,China,2025,Q3,531220.01,567888.38
+BBU,ProductC,Asia,China,2025,Q4,195632.96,186732.72
+BBU,ProductC,Asia,South Korea,2025,Q1,358378.62,348782.37
+BBU,ProductC,Asia,South Korea,2025,Q2,279404.97,294620.17
+BBU,ProductC,Asia,South Korea,2025,Q3,552908.21,543012.04
+BBU,ProductC,Asia,South Korea,2025,Q4,531022.85,477962.21
+HBU,ProductA,North America,United States,2025,Q1,281371.64,294559.78
+HBU,ProductA,North America,United States,2025,Q2,274297.31,272884.94
+HBU,ProductA,North America,United States,2025,Q3,629479.1,677579.77
+HBU,ProductA,North America,United States,2025,Q4,825641.82,830577.83
+HBU,ProductA,North America,Canada,2025,Q1,511575.84,553776.85
+HBU,ProductA,North America,Canada,2025,Q2,169365.71,167549.23
+HBU,ProductA,North America,Canada,2025,Q3,893148.13,902822.3
+HBU,ProductA,North America,Canada,2025,Q4,926150.16,930166.66
+HBU,ProductA,North America,Mexico,2025,Q1,412591.69,425242.63
+HBU,ProductA,North America,Mexico,2025,Q2,403515.56,424583.8
+HBU,ProductA,North America,Mexico,2025,Q3,642817.01,669589.58
+HBU,ProductA,North America,Mexico,2025,Q4,629984.81,685986.8
+HBU,ProductA,Europe,Germany,2025,Q1,167711.21,159398.1
+HBU,ProductA,Europe,Germany,2025,Q2,780235.15,850765.03
+HBU,ProductA,Europe,Germany,2025,Q3,508252.55,549584.52
+HBU,ProductA,Europe,Germany,2025,Q4,962829.92,1005766.87
+HBU,ProductA,Europe,France,2025,Q1,749757.57,758121.03
+HBU,ProductA,Europe,France,2025,Q2,883306.23,894651.53
+HBU,ProductA,Europe,France,2025,Q3,653878.97,612965.1
+HBU,ProductA,Europe,France,2025,Q4,365391.06,360628.77
+HBU,ProductA,Europe,United Kingdom,2025,Q1,117509.22,123242.6
+HBU,ProductA,Europe,United Kingdom,2025,Q2,277184.03,283019.97
+HBU,ProductA,Europe,United Kingdom,2025,Q3,912379.06,898355.31
+HBU,ProductA,Europe,United Kingdom,2025,Q4,135389.66,148758.93
+HBU,ProductA,Asia,Japan,2025,Q1,718626.79,729399.52
+HBU,ProductA,Asia,Japan,2025,Q2,891211.14,852525.94
+HBU,ProductA,Asia,Japan,2025,Q3,549725.63,527569.81
+HBU,ProductA,Asia,Japan,2025,Q4,517721.93,469502.89
+HBU,ProductA,Asia,China,2025,Q1,804760.22,763736.21
+HBU,ProductA,Asia,China,2025,Q2,799692.25,719785.44
+HBU,ProductA,Asia,China,2025,Q3,861186.14,828426.27
+HBU,ProductA,Asia,China,2025,Q4,320912.73,324350.91
+HBU,ProductA,Asia,South Korea,2025,Q1,302896.48,309527.68
+HBU,ProductA,Asia,South Korea,2025,Q2,725774.02,786347.67
+HBU,ProductA,Asia,South Korea,2025,Q3,739907.18,687153.07
+HBU,ProductA,Asia,South Korea,2025,Q4,802985.41,851028.4
+HBU,ProductB,North America,United States,2025,Q1,825513.11,792311.0
+HBU,ProductB,North America,United States,2025,Q2,862623.74,808671.17
+HBU,ProductB,North America,United States,2025,Q3,705679.88,691719.68
+HBU,ProductB,North America,United States,2025,Q4,830110.62,811718.99
+HBU,ProductB,North America,Canada,2025,Q1,722131.47,678955.57
+HBU,ProductB,North America,Canada,2025,Q2,426667.66,448014.26
+HBU,ProductB,North America,Canada,2025,Q3,280596.75,296239.22
+HBU,ProductB,North America,Canada,2025,Q4,739544.7,700765.91
+HBU,ProductB,North America,Mexico,2025,Q1,881046.2,844291.53
+HBU,ProductB,North America,Mexico,2025,Q2,517875.22,567583.02
+HBU,ProductB,North America,Mexico,2025,Q3,372896.89,388212.72
+HBU,ProductB,North America,Mexico,2025,Q4,408426.27,412172.59
+HBU,ProductB,Europe,Germany,2025,Q1,353613.66,382800.01
+HBU,ProductB,Europe,Germany,2025,Q2,599002.12,595436.88
+HBU,ProductB,Europe,Germany,2025,Q3,145624.77,159268.77
+HBU,ProductB,Europe,Germany,2025,Q4,138694.65,131027.66
+HBU,ProductB,Europe,France,2025,Q1,256337.04,278114.37
+HBU,ProductB,Europe,France,2025,Q2,440343.57,473541.52
+HBU,ProductB,Europe,France,2025,Q3,432709.65,427324.37
+HBU,ProductB,Europe,France,2025,Q4,840332.81,919787.99
+HBU,ProductB,Europe,United Kingdom,2025,Q1,756045.7,750921.91
+HBU,ProductB,Europe,United Kingdom,2025,Q2,385514.09,417896.3
+HBU,ProductB,Europe,United Kingdom,2025,Q3,369086.35,403299.23
+HBU,ProductB,Europe,United Kingdom,2025,Q4,836063.66,803016.93
+HBU,ProductB,Asia,Japan,2025,Q1,880188.36,920003.24
+HBU,ProductB,Asia,Japan,2025,Q2,128166.29,116291.22
+HBU,ProductB,Asia,Japan,2025,Q3,593163.04,606491.5
+HBU,ProductB,Asia,Japan,2025,Q4,736279.72,786663.58
+HBU,ProductB,Asia,China,2025,Q1,462324.24,440678.13
+HBU,ProductB,Asia,China,2025,Q2,423947.04,396547.37
+HBU,ProductB,Asia,China,2025,Q3,523471.07,532168.97
+HBU,ProductB,Asia,China,2025,Q4,590930.81,622767.97
+HBU,ProductB,Asia,South Korea,2025,Q1,658588.8,667992.61
+HBU,ProductB,Asia,South Korea,2025,Q2,889671.81,851008.62
+HBU,ProductB,Asia,South Korea,2025,Q3,465499.74,491129.47
+HBU,ProductB,Asia,South Korea,2025,Q4,693861.83,629342.66
+HBU,ProductC,North America,United States,2025,Q1,392351.03,375219.36
+HBU,ProductC,North America,United States,2025,Q2,674211.99,709185.63
+HBU,ProductC,North America,United States,2025,Q3,580959.97,526348.21
+HBU,ProductC,North America,United States,2025,Q4,100294.31,96426.59
+HBU,ProductC,North America,Canada,2025,Q1,667707.83,605332.63
+HBU,ProductC,North America,Canada,2025,Q2,971988.45,1068602.09
+HBU,ProductC,North America,Canada,2025,Q3,883446.03,956740.23
+HBU,ProductC,North America,Canada,2025,Q4,569324.52,605550.45
+HBU,ProductC,North America,Mexico,2025,Q1,604752.03,618095.12
+HBU,ProductC,North America,Mexico,2025,Q2,560879.36,552036.56
+HBU,ProductC,North America,Mexico,2025,Q3,519870.23,557878.48
+HBU,ProductC,North America,Mexico,2025,Q4,690458.54,733484.21
+HBU,ProductC,Europe,Germany,2025,Q1,302100.26,274341.47
+HBU,ProductC,Europe,Germany,2025,Q2,845616.49,832736.26
+HBU,ProductC,Europe,Germany,2025,Q3,528369.01,516538.81
+HBU,ProductC,Europe,Germany,2025,Q4,146914.61,136582.93
+HBU,ProductC,Europe,France,2025,Q1,639586.6,606772.78
+HBU,ProductC,Europe,France,2025,Q2,141369.1,130438.67
+HBU,ProductC,Europe,France,2025,Q3,213333.5,221478.93
+HBU,ProductC,Europe,France,2025,Q4,763111.4,829175.25
+HBU,ProductC,Europe,United Kingdom,2025,Q1,209048.57,203319.07
+HBU,ProductC,Europe,United Kingdom,2025,Q2,415098.21,432337.29
+HBU,ProductC,Europe,United Kingdom,2025,Q3,679976.02,625887.48
+HBU,ProductC,Europe,United Kingdom,2025,Q4,637924.09,576904.76
+HBU,ProductC,Asia,Japan,2025,Q1,663266.99,614285.11
+HBU,ProductC,Asia,Japan,2025,Q2,644017.37,700298.27
+HBU,ProductC,Asia,Japan,2025,Q3,970573.74,929375.92
+HBU,ProductC,Asia,Japan,2025,Q4,949065.15,872675.7
+HBU,ProductC,Asia,China,2025,Q1,559239.56,564412.12
+HBU,ProductC,Asia,China,2025,Q2,558759.22,525557.15
+HBU,ProductC,Asia,China,2025,Q3,362766.87,350121.86
+HBU,ProductC,Asia,China,2025,Q4,308294.23,315490.03
+HBU,ProductC,Asia,South Korea,2025,Q1,671800.67,625492.49
+HBU,ProductC,Asia,South Korea,2025,Q2,253272.07,245643.25
+HBU,ProductC,Asia,South Korea,2025,Q3,951045.36,916809.31
+HBU,ProductC,Asia,South Korea,2025,Q4,131655.13,124754.27
+CBU,ProductA,North America,United States,2025,Q1,774389.34,774409.48
+CBU,ProductA,North America,United States,2025,Q2,510018.61,541412.34
+CBU,ProductA,North America,United States,2025,Q3,828308.3,802409.54
+CBU,ProductA,North America,United States,2025,Q4,386354.96,392276.68
+CBU,ProductA,North America,Canada,2025,Q1,317424.26,327629.3
+CBU,ProductA,North America,Canada,2025,Q2,484141.38,465606.61
+CBU,ProductA,North America,Canada,2025,Q3,245893.87,221650.86
+CBU,ProductA,North America,Canada,2025,Q4,979578.08,962034.17
+CBU,ProductA,North America,Mexico,2025,Q1,945944.94,905314.55
+CBU,ProductA,North America,Mexico,2025,Q2,236098.07,220244.91
+CBU,ProductA,North America,Mexico,2025,Q3,374026.1,397366.37
+CBU,ProductA,North America,Mexico,2025,Q4,959434.25,981343.03
+CBU,ProductA,Europe,Germany,2025,Q1,629504.45,659673.23
+CBU,ProductA,Europe,Germany,2025,Q2,508135.88,514412.02
+CBU,ProductA,Europe,Germany,2025,Q3,928645.9,929803.57
+CBU,ProductA,Europe,Germany,2025,Q4,814271.83,888303.54
+CBU,ProductA,Europe,France,2025,Q1,777915.01,836784.62
+CBU,ProductA,Europe,France,2025,Q2,144853.03,148286.93
+CBU,ProductA,Europe,France,2025,Q3,201235.49,191294.75
+CBU,ProductA,Europe,France,2025,Q4,877733.14,950120.93
+CBU,ProductA,Europe,United Kingdom,2025,Q1,198915.81,213318.75
+CBU,ProductA,Europe,United Kingdom,2025,Q2,677019.44,726571.17
+CBU,ProductA,Europe,United Kingdom,2025,Q3,694410.43,697538.51
+CBU,ProductA,Europe,United Kingdom,2025,Q4,560808.17,552368.46
+CBU,ProductA,Asia,Japan,2025,Q1,658358.53,654980.3
+CBU,ProductA,Asia,Japan,2025,Q2,292776.79,271208.21
+CBU,ProductA,Asia,Japan,2025,Q3,585629.93,544490.0
+CBU,ProductA,Asia,Japan,2025,Q4,571257.18,624585.84
+CBU,ProductA,Asia,China,2025,Q1,598782.2,611788.19
+CBU,ProductA,Asia,China,2025,Q2,282018.49,304982.42
+CBU,ProductA,Asia,China,2025,Q3,412341.89,407665.97
+CBU,ProductA,Asia,China,2025,Q4,195415.16,203147.67
+CBU,ProductA,Asia,South Korea,2025,Q1,872740.75,922292.24
+CBU,ProductA,Asia,South Korea,2025,Q2,583863.97,528120.08
+CBU,ProductA,Asia,South Korea,2025,Q3,946100.42,1036671.93
+CBU,ProductA,Asia,South Korea,2025,Q4,617157.78,667743.43
+CBU,ProductB,North America,United States,2025,Q1,837338.71,914325.79
+CBU,ProductB,North America,United States,2025,Q2,900374.38,951056.22
+CBU,ProductB,North America,United States,2025,Q3,951424.78,1033468.42
+CBU,ProductB,North America,United States,2025,Q4,469942.58,489388.82
+CBU,ProductB,North America,Canada,2025,Q1,688998.01,666407.54
+CBU,ProductB,North America,Canada,2025,Q2,709397.9,674393.76
+CBU,ProductB,North America,Canada,2025,Q3,464752.38,476861.17
+CBU,ProductB,North America,Canada,2025,Q4,965234.51,999446.42
+CBU,ProductB,North America,Mexico,2025,Q1,684128.98,734255.19
+CBU,ProductB,North America,Mexico,2025,Q2,316894.9,301456.91
+CBU,ProductB,North America,Mexico,2025,Q3,179438.77,182130.06
+CBU,ProductB,North America,Mexico,2025,Q4,508035.3,516629.69
+CBU,ProductB,Europe,Germany,2025,Q1,112309.17,107304.64
+CBU,ProductB,Europe,Germany,2025,Q2,818643.08,841787.92
+CBU,ProductB,Europe,Germany,2025,Q3,179799.31,169073.22
+CBU,ProductB,Europe,Germany,2025,Q4,189060.71,203151.6
+CBU,ProductB,Europe,France,2025,Q1,817572.16,882228.46
+CBU,ProductB,Europe,France,2025,Q2,988054.59,927801.49
+CBU,ProductB,Europe,France,2025,Q3,994515.22,930127.3
+CBU,ProductB,Europe,France,2025,Q4,871157.4,860238.71
+CBU,ProductB,Europe,United Kingdom,2025,Q1,315755.48,301458.81
+CBU,ProductB,Europe,United Kingdom,2025,Q2,482013.44,451624.37
+CBU,ProductB,Europe,United Kingdom,2025,Q3,727575.9,698286.81
+CBU,ProductB,Europe,United Kingdom,2025,Q4,657282.02,700096.14
+CBU,ProductB,Asia,Japan,2025,Q1,797304.25,836705.8
+CBU,ProductB,Asia,Japan,2025,Q2,631057.26,637947.87
+CBU,ProductB,Asia,Japan,2025,Q3,809060.22,769726.03
+CBU,ProductB,Asia,Japan,2025,Q4,175458.02,174330.86
+CBU,ProductB,Asia,China,2025,Q1,368241.01,344726.5
+CBU,ProductB,Asia,China,2025,Q2,132855.04,133637.91
+CBU,ProductB,Asia,China,2025,Q3,555453.16,595192.91
+CBU,ProductB,Asia,China,2025,Q4,828110.03,749454.64
+CBU,ProductB,Asia,South Korea,2025,Q1,245500.16,230741.1
+CBU,ProductB,Asia,South Korea,2025,Q2,298650.37,298657.68
+CBU,ProductB,Asia,South Korea,2025,Q3,528327.24,566082.85
+CBU,ProductB,Asia,South Korea,2025,Q4,803699.64,834255.36
+CBU,ProductC,North America,United States,2025,Q1,864533.25,930028.18
+CBU,ProductC,North America,United States,2025,Q2,461742.04,483400.53
+CBU,ProductC,North America,United States,2025,Q3,460248.34,444556.59
+CBU,ProductC,North America,United States,2025,Q4,460725.44,477203.19
+CBU,ProductC,North America,Canada,2025,Q1,332281.35,349276.64
+CBU,ProductC,North America,Canada,2025,Q2,241591.77,235182.28
+CBU,ProductC,North America,Canada,2025,Q3,367098.34,351596.58
+CBU,ProductC,North America,Canada,2025,Q4,601112.47,635539.96
+CBU,ProductC,North America,Mexico,2025,Q1,440318.2,438889.88
+CBU,ProductC,North America,Mexico,2025,Q2,244625.57,234245.95
+CBU,ProductC,North America,Mexico,2025,Q3,977966.22,998369.92
+CBU,ProductC,North America,Mexico,2025,Q4,605188.37,660506.92
+CBU,ProductC,Europe,Germany,2025,Q1,787392.67,805064.64
+CBU,ProductC,Europe,Germany,2025,Q2,666831.89,626765.71
+CBU,ProductC,Europe,Germany,2025,Q3,980841.73,1075612.82
+CBU,ProductC,Europe,Germany,2025,Q4,311493.53,292554.67
+CBU,ProductC,Europe,France,2025,Q1,319695.25,339912.95
+CBU,ProductC,Europe,France,2025,Q2,846981.41,802072.31
+CBU,ProductC,Europe,France,2025,Q3,812871.9,741649.28
+CBU,ProductC,Europe,France,2025,Q4,269339.04,277674.11
+CBU,ProductC,Europe,United Kingdom,2025,Q1,816891.69,854251.16
+CBU,ProductC,Europe,United Kingdom,2025,Q2,646659.66,593336.38
+CBU,ProductC,Europe,United Kingdom,2025,Q3,699587.16,710617.56
+CBU,ProductC,Europe,United Kingdom,2025,Q4,344390.48,340941.92
+CBU,ProductC,Asia,Japan,2025,Q1,260484.78,264581.05
+CBU,ProductC,Asia,Japan,2025,Q2,335970.62,365702.53
+CBU,ProductC,Asia,Japan,2025,Q3,289468.36,300896.51
+CBU,ProductC,Asia,Japan,2025,Q4,725498.67,695896.93
+CBU,ProductC,Asia,China,2025,Q1,700935.41,767152.25
+CBU,ProductC,Asia,China,2025,Q2,731573.83,677703.22
+CBU,ProductC,Asia,China,2025,Q3,886366.2,878272.45
+CBU,ProductC,Asia,China,2025,Q4,344326.85,359263.1
+CBU,ProductC,Asia,South Korea,2025,Q1,946467.14,1004229.22
+CBU,ProductC,Asia,South Korea,2025,Q2,890221.81,926075.77
+CBU,ProductC,Asia,South Korea,2025,Q3,159804.12,157401.17
+CBU,ProductC,Asia,South Korea,2025,Q4,549111.93,538320.02
+ZBU,ProductA,North America,United States,2025,Q4,500000.00,520000.00
+ZBU,ProductB,North America,United States,2025,Q4,430000.00,450000.00
+ZBU,ProductC,North America,United States,2025,Q4,610000.00,600000.00
