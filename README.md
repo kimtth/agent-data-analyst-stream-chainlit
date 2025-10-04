@@ -2,6 +2,8 @@
 
 A small Chainlit-based data analyst chat agent that answers questions about a synthetic business dataset, runs pandas / matplotlib code when needed, and returns outputs (stream) and inline PNG plots. 
 
+<img src="./data/demo.gif" width="430">
+
 ## OpenAI Code Interpreter
 
 - Released in **March 2023** (alpha for ChatGPT Plus).
